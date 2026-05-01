@@ -1,6 +1,6 @@
 # Hola, sóc l'Eduard 👋
 
-📍 **Barcelona** | ⚙️ **Cloud-Native & AI builder** | 🔬 **HomeLab enthusiast**
+📍 **Barcelona - Igualada** | ⚙️ **Cloud-Native & AI builder** | 🔬 **HomeLab enthusiast**
 
 [![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org)
 [![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
