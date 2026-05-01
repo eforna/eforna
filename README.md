@@ -50,8 +50,6 @@
 > "Cada eina ha de resoldre un problema viscut. Si no tens el problema, no necessites l'eina."
 
 ### Random facts
-
-- 🏔️ Ultramaratonista — CCC a Mont Blanc, Ultra Pirineu
 - 🤖 Els agents del meu lab parlen català
 - ☕ Funciono amb cafè i `docker compose up`
 - 🏠 El meu HomeLab és la meva aula i el meu camp de proves
