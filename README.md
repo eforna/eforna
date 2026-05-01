@@ -13,7 +13,7 @@
 [![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)](https://www.anthropic.com)
 [![Tailscale](https://img.shields.io/badge/-Tailscale-000000?style=flat-square&logo=tailscale&logoColor=white)](https://tailscale.com)
 
-> Enginyer de Telecomunicacions (UPC) amb +13 anys d'experiència en sistemes enterprise. Al marge de la feina, construeixo infraestructura real al meu HomeLab i experimento amb IA aplicada — aprenent fent.
+> Enginyer de Telecomunicacions (UPC) amb +25 anys d'experiència en sistemes enterprise. Al marge de la feina, construeixo infraestructura real al meu HomeLab i experimento amb IA aplicada — aprenent fent.
 
 ## El que estic construint
 
